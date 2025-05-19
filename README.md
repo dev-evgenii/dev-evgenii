@@ -5,6 +5,7 @@ Hi 👋 My name is Evgenii
 -------------------------
 
 I am a proficient developer with experience producing code to a consistently high standard. My knowledge to implement a range of practical solutions with the utmost efficiency.
+<br/>
 ⚠️ Note: All projects **here** are experimental, educational, or personal. They are not monetized or officially supported—just code I share openly for learning purposes.
 
 ### Skills
